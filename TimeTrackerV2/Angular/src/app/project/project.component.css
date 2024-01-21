@@ -1,0 +1,13 @@
+.center{
+    text-align: center;
+    align-items: center;
+}
+
+.btn-group {
+    margin-left:20px;
+}
+
+.chart-container {
+    margin:auto;
+    max-width:400px;
+}
